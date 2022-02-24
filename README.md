@@ -9,4 +9,6 @@ To reproduce the main findings in the paper, simply download the "TXT" folders i
 - 3_Peptides.R same as above, but for peptide level information.
 - 4_workingtable.R will extract and aggregate the filtered protein, phosphorylation site and peptide level information into a unified table. This working table is further manipulated for calculation of the delta pull-down efficiencies.
 - 5_PulldownEfficiency.R will extract the summarized information and perform some data analysis present in the final publication.
+
+Folders contain specific analysis in the paper that require downloading data from other sourcers for implementation.
 </pre>
